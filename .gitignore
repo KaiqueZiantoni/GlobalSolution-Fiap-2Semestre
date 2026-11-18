@@ -1,0 +1,18 @@
+# Build
+target/
+
+# Credenciais e configuracao local: nunca vao para o repositorio nem para o .zip
+.env
+.env.*
+application-local.properties
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Sistema
+.DS_Store
