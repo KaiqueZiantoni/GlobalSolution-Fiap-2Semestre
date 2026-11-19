@@ -18,6 +18,10 @@ O Tomei, Doutor é um app para pessoas idosas e pacientes crônicos que leem pou
 - **API no Render:** [PREENCHER: URL da API no Render]
 - **Vídeo (YouTube, não listado):** [PREENCHER: link do vídeo]
 
+## Uso de IA generativa
+
+O grupo usou o Claude (Anthropic) como apoio na escrita do código, dos testes e da documentação. O grupo definiu o escopo e as regras de negócio, revisou e simplificou o código, e é responsável pela entrega.
+
 ## Tecnologias
 
 - Java 21, Spring Boot 3.5 e Maven
