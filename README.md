@@ -16,7 +16,7 @@ O Tomei, Doutor é um app para pessoas idosas e pacientes crônicos que leem pou
 ## Links
 
 - **API no Render:** https://tomei-doutor-api.onrender.com
-- **Vídeo (YouTube, não listado):** [PREENCHER: link do vídeo]
+- **Vídeo (YouTube):** https://www.youtube.com/watch?v=arnqERcE0dk
 
 ## Uso de IA generativa
 
